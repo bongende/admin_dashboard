@@ -9,6 +9,7 @@
 - [Nivo chart](https://nivo.rocks/)
 - [Google Font](https://fonts.google.com/specimen/Source+Sans+3?query=source+)
 - [Raect-pro-sidebar](https://www.npmjs.com/package/react-pro-sidebar)
+- [Formik](https://formik.org/) to handle our form
 
 Currently, two official plugins are available:
 

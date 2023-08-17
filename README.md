@@ -27,3 +27,11 @@ in the css, one may note that the rules for the scrollbar are not encouraged for
 ### Architectural concerns
 
 the organisation of the codebase is mainly made by features
+
+### Future implementations
+
+in the future i'll need to timplement the others buttons in the top, (notification, profilr and setting) make it responsive, and add some other ameliorations if they appear.
+
+#### Credit
+
+- [Ed Roh](https://www.youtube.com/watch?v=wYpCWwD1oz0)
